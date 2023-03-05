@@ -1,5 +1,3 @@
-# lrcScroll
-
 ## Project Setup
 
 ```sh
